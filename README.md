@@ -1,6 +1,6 @@
 # pinscrape
 
-a discord bot with slash commands to scrape and download pinterest images directly in discord.
+a discord bot with slash commands to scrape pinterest images directly in discord.
 
 ## usage
 
