@@ -1,8 +1,6 @@
 # pinscrape
 
-scrape and download pinterest images directly from discord.
-
-built on top of [pinscrape](https://github.com/iamatulsingh/pinscrape) by [iamatulsingh](https://github.com/iamatulsingh)
+a discord bot with slash commands to scrape and download pinterest images directly in discord.
 
 ## usage
 
