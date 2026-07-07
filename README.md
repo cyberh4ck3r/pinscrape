@@ -5,7 +5,7 @@ a discord bot with slash commands to scrape pinterest images directly in discord
 ## usage
 
 1. clone the repo
-2. create a `.env` file and add your discord bot token (get one at [discord.com/developers/applications](https://discord.com/developers/applications)) — `.env` is in `.gitignore` so your token stays safe
+2. create a `.env` file and add your discord bot token (get one at [discord.com/developers/applications](https://discord.com/developers/applications))
 3. run `pip install -r requirements.txt`
 4. run `python bot.py`
 5. use `/pinscrape` to search for images
